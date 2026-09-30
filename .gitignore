@@ -1,8 +1,11 @@
 .idea
 node_modules
 dist
-.env
 .DS_Store
 setup-repo.ts
 tsconfig.tsbuildinfo
 .fallow/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
